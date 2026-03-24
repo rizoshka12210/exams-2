@@ -610,11 +610,17 @@
   .text-\[20px\] {
     font-size: 20px;
   }
+  .text-\[30px\] {
+    font-size: 30px;
+  }
   .text-\[40px\] {
     font-size: 40px;
   }
   .text-\[50px\] {
     font-size: 50px;
+  }
+  .text-\[60px\] {
+    font-size: 60px;
   }
   .text-\[70px\] {
     font-size: 70px;
@@ -637,6 +643,9 @@
   }
   .text-\[\#07AF91\] {
     color: #07AF91;
+  }
+  .text-\[3xl\] {
+    color: 3xl;
   }
   .text-black {
     color: var(--color-black);
